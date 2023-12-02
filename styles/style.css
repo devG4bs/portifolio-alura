@@ -96,7 +96,7 @@ body{
     border-radius: 8px;
 }
 
-.apresentacao_links_navegacao:hover{
+.apresentacao_links_link navegacao:hover{
     background-color: var(--cor-hover);
 }
 
@@ -126,8 +126,17 @@ body{
         flex-direction: column-reverse;
         padding: 5%;
     }
+
     .apresentacao_conteudo{
         width: auto;
     }
-    
+
+    .apresentacao_links_link navegacao:hover{
+        width: auto;
+    }
+
+    .apresentacao_links_navegacao{
+        width: auto;
+        padding: auto;
+    }
 }
