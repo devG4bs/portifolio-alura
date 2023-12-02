@@ -136,7 +136,10 @@ body{
     }
 
     .apresentacao_links_navegacao{
-        width: 70%;
-       
+        width: 85%;  
+    }
+
+    .aprensentacao_imagem{
+        width: 100%;
     }
 }
